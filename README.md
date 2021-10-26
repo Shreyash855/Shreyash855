@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shreyash855
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate with coders
 - 📫 email : shreyashsarade@gmail.com
 
 <!---
