@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyash855
 - 🎓 Completed my Computer Engineering from Sinhagad College of Enginnering
 - 🧑‍💼 Currently working as Full Stack Java developer @ Worldline Global Services
-- 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision as well
+- 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision
 - 📫 email : shreyashsarade@gmail.com
 - 🔗 LinkedIn profile - https://www.linkedin.com/in/shreyash-sarade-917165218/
 
