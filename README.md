@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shreyash855
+- 🎓 Pursuing MTech in Artificial Intelligence Systems @ National University of Singapore
+- 🧑‍💼 Worked as Full Stack Java developer @ Worldline Global Services
 - 🎓 Completed my Computer Engineering from Sinhagad College of Enginnering
-- 🧑‍💼 Currently working as Full Stack Java developer @ Worldline Global Services
 - 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision
 - 📫 email : shreyashsarade.official@gmail.com
 - 🔗 LinkedIn profile - https://www.linkedin.com/in/shreyash-sarade-917165218/
